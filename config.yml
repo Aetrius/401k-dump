@@ -1,15 +1,5 @@
 metrics:
-  Cronos:
-    qty: 787
-  Cardano:
-    qty: 1410
-  API3:
-    qty: 150
-  Avalanche:
-    qty: 3
-  Fantom:
+  RIVN_Max:
+    qty: 1212
+  RIVN_Current:
     qty: 100
-  Dogecoin:
-    qty: 38.262
-  USD:
-    qty: 1.54

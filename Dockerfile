@@ -19,9 +19,9 @@ RUN go get github.com/prometheus/common/version
 RUN go mod vendor
 RUN go mod tidy
 
-RUN go build -o /cryptodb-exporter
+RUN go build -o /401kdb-exporter
 
-EXPOSE 9110
+EXPOSE 9112
 
-CMD [ "/cryptodb-exporter" ]
+CMD [ "/401kdb-exporter" ]
 

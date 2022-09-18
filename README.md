@@ -1,4 +1,4 @@
-# Crypto 💸🌐 Dump & Exporter
+# 401k 💸🌐 Dump & Exporter
 
 This project is utilized to provide crypto data to Prometheus. Starting as a stand alone config file, and eventually will be a database.
 
